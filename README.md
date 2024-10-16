@@ -1,6 +1,6 @@
 # Hi, I'm Adeel 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/adeelakram696/adeelakram696/master/cover.png" alt="banner that says Adeel akram - fullstack developer with ReactJS, Nodejs, expressjs, graphql, postgres">
+<img src="https://raw.githubusercontent.com/adeelakram696/adeelakram696/master/cover.png" alt="banner that says Adeel akram - fullstack developer with ReactJS, Nodejs, expressjs, graphql, postgres" width="1024">
 I am a Senior Full Stack Engineer, specializing in web development across multiple scalable projects and products. Throughout my career, I’ve worked on both frontend and backend technologies, focusing on creating efficient, maintainable, and high-performing applications. I have expertise in React, JavaScript, API integration, and cloud-based services, and have contributed to projects involving complex API integrations, component migration, and performance optimization.
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
