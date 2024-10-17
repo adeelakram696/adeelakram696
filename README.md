@@ -7,7 +7,7 @@ I am a Senior Full Stack Engineer, specializing in web development across multip
 
 - 💻 I am currently working as a Senior Full Stack Developer.
 - 💬 Ask me about **Frontend, Backend, Applcation structure**
-- 📄 Know about my experiences [https://www.linkedin.com/in/madeelakram/](https://www.linkedin.com/in/madeelakram/)
+- 📄 Know about my experiences [https://www.adeelakram.com/](https://www.adeelakram.com/) [https://www.linkedin.com/in/madeelakram/](https://www.linkedin.com/in/madeelakram/)
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
